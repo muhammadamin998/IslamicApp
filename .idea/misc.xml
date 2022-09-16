@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/back1.xml" value="0.1" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/back2.xml" value="0.1" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/back3.xml" value="0.1" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/back5.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/border_shadow.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/inforamka.xml" value="0.1115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/level_progress.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/level_thumb.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/radio_back.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/radio_back_green.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/radio_back_red.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/seekbar_progress.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/drawable/seekbar_style.xml" value="0.115" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_info.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_quiz.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_quiz_1.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_quiz_hard.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_quiz_normal.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_quiz_old.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_result.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_settings.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/layout/activity_start.xml" value="0.1796875" />
+        <entry key="..\:/Users/acer/Downloads/Islamic Quiz/GeographyQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

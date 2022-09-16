@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3bb400"
+    tools:context=".Info">
+
+    <Button
+        android:background="@drawable/strelka33"
+        android:id="@+id/strelka1"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="55dp"
+        android:layout_height="40dp"/>
+
+    <Button
+        android:text="O'yin yaratuvchilari:\n\n Yusufxonov Umarxon,
+Nurullaev Muhammadamin, Sa'dullayev Muxammad Ali.\n\n bizning ijtmoiy tarmoqdagi profilarimiz: \n\nInstagram: ulgroup_uz\ngithub: ulgroup\n
+telegram: ul_group_uz\n\n\n\n\n\n\n\n\ncopyright by: ulgroup"
+        android:background="@drawable/inforamka"
+        android:layout_width="350dp"
+        android:layout_height="600dp"
+        android:layout_gravity="center"
+        android:textSize="20sp"/>
+
+    <ImageView
+        android:background="@drawable/ullogo"
+        android:layout_marginTop="140dp"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="150dp"/>
+
+</FrameLayout>

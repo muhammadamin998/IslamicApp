@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#3bb400"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+        <ImageView
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/img_9"
+            android:layout_gravity="center"
+            android:id="@+id/start_quiz"
+            android:layout_width="350dp"
+            android:layout_height="120dp"
+            android:contentDescription="TODO"
+            tools:ignore="ContentDescription" />
+
+<!--        <ImageView-->
+<!--            android:background="@drawable/img_10"-->
+<!--            android:layout_marginStart="120dp"-->
+<!--            android:layout_marginTop="87dp"-->
+<!--            android:layout_gravity="center_vertical"-->
+<!--            android:id="@+id/settings"-->
+<!--            android:layout_width="70dp"-->
+<!--            android:layout_height="70dp"/>-->
+
+        <ImageView
+            android:background="@drawable/info3"
+            android:layout_marginStart="106dp"
+            android:layout_marginTop="87dp"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/info"
+            android:layout_width="200dp"
+            android:layout_height="70dp"/>
+
+        <ImageView
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/img_6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <ImageView
+            android:layout_gravity="end"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/img_5"
+            android:layout_width="140dp"
+            android:layout_height="150dp"/>
+
+        <ImageView
+            android:background="@drawable/img_7"
+            android:layout_gravity="bottom"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"/>
+
+        <ImageView
+            android:background="@drawable/img_8"
+            android:layout_marginBottom="165dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="30dp"
+            android:layout_width="130dp"
+            android:layout_height="150dp"/>
+
+       <ImageView
+           android:background="@drawable/img_12"
+           android:layout_marginStart="40dp"
+           android:layout_marginTop="130dp"
+           android:layout_width="130dp"
+           android:layout_height="80dp"/>
+
+</FrameLayout>

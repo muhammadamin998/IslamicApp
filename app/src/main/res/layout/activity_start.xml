@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3bb400"
+    tools:context=".StartActivity">
+
+    <Button
+        android:background="@drawable/strelka33"
+        android:id="@+id/strelka"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="55dp"
+        android:layout_height="40dp"/>
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/kitob"
+        android:layout_width="200dp"
+        android:layout_height="120dp"/>
+
+    <ImageView
+        android:layout_gravity="bottom"
+        android:background="@drawable/masjid"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"/>
+
+    <Button
+        android:layout_marginBottom="150dp"
+        android:gravity="center"
+        android:id="@+id/easy"
+        android:background="@drawable/oson1"
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="100dp"/>
+
+    <Button
+        android:id="@+id/normal"
+        android:background="@drawable/ortacha"
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="100dp"/>
+
+    <Button
+        android:layout_marginTop="150dp"
+        android:id="@+id/hard"
+        android:background="@drawable/qiyin"
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="100dp"/>
+
+</FrameLayout>
